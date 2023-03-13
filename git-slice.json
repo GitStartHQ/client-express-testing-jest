@@ -1,0 +1,13 @@
+{
+  "repoUrl": "https://github.com/Mjanuary/express-testing-jest.git",
+  "folders": ["./"],
+  "branch": "main",
+  "ignore": [
+    "git-slice.json",
+    ".github/workflows/git-slice-v2.yml",
+    ".github/pull_request_template.md",
+    ".github/workflows/app-checks.yml",
+    ".github/workflows/push-checks.yml",
+    "CODEOWNERS"
+  ]
+}
